@@ -38,3 +38,13 @@
 #include "util_deprecated.cuh"
 #include "util_macro.cuh"
 #include "util_namespace.cuh"
+
+{
+   ...
+   "cuda": {
+      "enabled": true,
+      ...
+   }
+   ...
+}
+
